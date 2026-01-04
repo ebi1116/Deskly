@@ -1,0 +1,8 @@
+{
+  "name": "Deskly",
+  "description": "A professional-grade office task manager featuring a Kanban board, productivity analytics, and a Gemini-powered smart assistant for breaking down complex workflows.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
